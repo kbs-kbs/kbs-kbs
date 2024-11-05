@@ -20,3 +20,11 @@ ex)
 ║                                                          ║ ┃   ┗━━ ⭐ Lomond          
 ║ Follow me on twitter @kbs-kbs                            ║ ┣━━ 🔧 Full-stack developer
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Author              
+
+🤓 kbs-kbs      
+┣&mdash;&mdash; ⭐ 2024-WS   
+ㅣ&emsp;&emsp; ┣━━ 🐍 Python  
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣━━ 🐍 Python  
+
+┣━━ 🐍 C  
+┣━━ 🐍 Java  
