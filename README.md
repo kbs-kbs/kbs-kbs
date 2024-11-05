@@ -23,8 +23,8 @@ ex)
 
 🤓 kbs-kbs      
 ┣&mdash;&mdash; ⭐ 2024-WS   
-ㅣ&emsp;&emsp; ┣━━ 🐍 Python  
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣━━ 🐍 Python  
+┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python  
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📘 numpy           
 
 ┣━━ 🐍 C  
 ┣━━ 🐍 Java  
