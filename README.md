@@ -24,7 +24,7 @@ ex)
 🤓 kbs-kbs      
 ┣&mdash;&mdash; ⭐ 2024-WS   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐈 Apache Tomcat   
-┃&emsp;&emsp; ┣&mdash;&mdash; 💬 JSP
+┃&emsp;&emsp; ┣&mdash;&mdash; 💬 JSP   
 ┣&mdash;&mdash; ⭐ 2024-DA   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python  
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 csv           
