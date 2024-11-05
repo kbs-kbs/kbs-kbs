@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 ex)
 
-╔════════════════════════ Hi there ════════════════════════╗ 🤓 kbs-kbs            
+╔════════════════════ 👋 Hi there ════════════════════════╗ 🤓 kbs-kbs            
 ║ I'm a freelance software developer, living in Edinburgh, ║ ┣━━ 🐍 Python expert       
-║ Scotland. Other than open source software development,   ║ ┃   ┣━━ ⭐ Rich            
-║ my passion would be wildlife photography.                ║ ┃   ┣━━ ⭐ PyFilesystem    
+║ Scotland. Other than open source software development,   ║ ┃   ┣━━ ⭐ numpy            
+║ my passion would be wildlife photography.                ║ ┃   ┣━━ ⭐ matplotlib    
 ║                                                          ║ ┃   ┗━━ ⭐ Lomond          
 ║ Follow me on twitter @kbs-kbs                            ║ ┣━━ 🔧 Full-stack developer
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Author              
