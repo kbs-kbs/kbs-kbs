@@ -32,3 +32,13 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib          
 ┣&mdash;&mdash; ⭐ 2024-JAVA   
 ┃&emsp;&emsp; ┣&mdash;&mdash; ☕ JAVA   
+┣&mdash;&mdash; ⭐ 2024-DB   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🐬 MySQL   
+┣&mdash;&mdash; ⭐ 2024-OSS   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🔱 git   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🐙 GitHub   
+┣&mdash;&mdash; ⭐ 2024-ANN   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python        
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 numpy     
+┣&mdash;&mdash; ⭐ 2024-RC   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🔡 English     
