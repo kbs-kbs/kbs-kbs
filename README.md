@@ -21,13 +21,17 @@ ex)
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐈 Apache Tomcat   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 💬 JSP   
 ┃&emsp;&emsp; ┣&mdash;&mdash; ☕ Java    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 JSTL     
 ┣&mdash;&mdash; ⭐ 2024-ANN   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python        
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 numpy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 NumPy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 TensorFlow     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 Pandas   
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib   
 ┣&mdash;&mdash; ⭐ 2024-DA   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python  
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 csv           
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 numpy           
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 NumPy           
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib      
 ┣&mdash;&mdash; ⭐ 2024-RC   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔡 English     
