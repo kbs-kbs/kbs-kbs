@@ -43,3 +43,5 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib      
 ┣&mdash;&mdash; ⭐ 2024-RC   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔡 English     
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
