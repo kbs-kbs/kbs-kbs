@@ -19,7 +19,7 @@ ex)
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐬 MySQL   
 ┣&mdash;&mdash; ⭐ 2024-WS   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐈 Apache Tomcat   
-┃&emsp;&emsp; ┣&mdash;&mdash; 💬 JSP   
+┃&emsp;&emsp; ┣&mdash;&mdash; 🔄 JSP   
 ┃&emsp;&emsp; ┣&mdash;&mdash; ☕ Java    
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 JSTL     
 ┣&mdash;&mdash; ⭐ 2024-ANN   
@@ -34,7 +34,7 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 NumPy           
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib      
 ┣&mdash;&mdash; ⭐ 2024-RC   
-┃&emsp;&emsp; ┣&mdash;&mdash; 🔡 English     
+┃&emsp;&emsp; ┣&mdash;&mdash; 🅰️ English     
 
 ## 💻 IDEs/Editors
 
