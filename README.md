@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @kbs-kbs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kbs-kbs/kbs-kbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 ex)
 
@@ -26,13 +14,13 @@ ex)
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔱 git   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐙 GitHub   
 ┣&mdash;&mdash; ⭐ 2024-JAVA   
-┃&emsp;&emsp; ┣&mdash;&mdash; ☕ JAVA   
+┃&emsp;&emsp; ┣&mdash;&mdash; ☕ Java    
 ┣&mdash;&mdash; ⭐ 2024-DB   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐬 MySQL   
 ┣&mdash;&mdash; ⭐ 2024-WS   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐈 Apache Tomcat   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 💬 JSP   
-┃&emsp;&emsp; ┣&mdash;&mdash; ☕ JAVA  
+┃&emsp;&emsp; ┣&mdash;&mdash; ☕ Java    
 ┣&mdash;&mdash; ⭐ 2024-ANN   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python        
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 numpy     
@@ -43,5 +31,12 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib      
 ┣&mdash;&mdash; ⭐ 2024-RC   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔡 English     
+
+💻 IDEs/Editors
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
