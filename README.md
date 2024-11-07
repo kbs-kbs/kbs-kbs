@@ -23,7 +23,7 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 TensorFlow     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 Pandas   
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 matplotlib   
-┣&mdash;&mdash; ⭐ 2024-DA   
+┣&mdash;&mdash; ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐍 Python  
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 csv           
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 NumPy           
