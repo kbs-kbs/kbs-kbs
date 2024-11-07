@@ -12,7 +12,7 @@ ex)
 😊 kbs-kbs      
 ┣&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔱 git   
-┃&emsp;&emsp; ┖&mdash;&mdash; 🐙 GitHub   
+┃&emsp;&emsp; ┗&mdash;&mdash; 🐙 GitHub   
 ┣&mdash;&mdash; ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
 ┃&emsp;&emsp; ┗&mdash;&mdash; ☕ Java    
 ┣&mdash;&mdash; ⭐ [2024-DB](https://github.com/kbs-kbs/2024-DB)   
@@ -22,7 +22,7 @@ ex)
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 NumPy     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 TensorFlow     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 Pandas   
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┕&mdash;&mdash; 📦 matplotlib   
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗&mdash;&mdash; 📦 matplotlib   
 ┣&mdash;&mdash; ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
 ┃&emsp;&emsp; ┗&mdash;&mdash; 🐍 Python  
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣&mdash;&mdash; 📦 csv           
