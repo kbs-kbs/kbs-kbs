@@ -1,11 +1,11 @@
 
 ex)
 
-╔════════════════════ 👋 Hi there ════════════════════════╗     
-║ I'm a student majoring in AI software. ║
-║ and I live in Seoul.          ║ 
-║                         ║
-╚══════════════════════════════════════════════════════════╝         
+👋 Hi there         
+
+I'm majoring in AI software from Seoul, South Korea.
+
+I'm interested in various programming languages and enjoy exploring new open sources on GitHub.       
 
 😊 kbs-kbs      
 ┣&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
