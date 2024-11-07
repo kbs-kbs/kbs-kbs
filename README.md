@@ -33,7 +33,7 @@ and enjoy exploring new open sources on GitHub.
 ┣&mdash;&mdash; ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
 ┃&emsp;&emsp; ┗&mdash;&mdash; 🍔 English     
 
-### 📚 Tech Stack
+### 📚 Tech stack
 ⌨️ Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
