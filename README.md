@@ -2,11 +2,9 @@
 ex)
 
 ╔════════════════════ 👋 Hi there ════════════════════════╗     
-║ I'm a freelance software developer, living in Edinburgh, ║
-║ Scotland. Other than open source software development,   ║ 
-║ my passion would be wildlife photography.                ║ 
-║                                                          ║
-║ Follow me on twitter @kbs-kbs                            ║
+║ I'm a student majoring in AI software. ║
+║ and I live in Seoul.          ║ 
+║                         ║
 ╚══════════════════════════════════════════════════════════╝         
 
 😊 kbs-kbs      
