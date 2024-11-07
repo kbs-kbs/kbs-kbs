@@ -9,7 +9,7 @@ ex)
 ║ Follow me on twitter @kbs-kbs                            ║
 ╚══════════════════════════════════════════════════════════╝         
 
-🤓 kbs-kbs      
+😊 kbs-kbs      
 ┣&mdash;&mdash; ⭐ 2024-OSS   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🔱 git   
 ┃&emsp;&emsp; ┣&mdash;&mdash; 🐙 GitHub   
