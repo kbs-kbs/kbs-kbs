@@ -7,30 +7,30 @@ and enjoy exploring new open sources on GitHub.
 ### 🍱 My repositories and learning techs    
 
 😊 kbs-kbs      
-**┣**&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
-**│**&emsp;&emsp; **┣**&mdash;&mdash; 🔱 git   
+**┠**&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
+**│**&emsp;&emsp; **┠**&mdash;&mdash; 🔱 git   
 **│**&emsp;&emsp; **└**&mdash;&mdash; 🐙 GitHub   
-**┣**&mdash;&mdash; ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
+**┠**&mdash;&mdash; ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
 **│**&emsp;&emsp; **└**&mdash;&mdash; ☕ Java    
-**┣**&mdash;&mdash; ⭐ [2024-DB](https://github.com/kbs-kbs/2024-DB)   
+**┠**&mdash;&mdash; ⭐ [2024-DB](https://github.com/kbs-kbs/2024-DB)   
 **│**&emsp;&emsp; **└**&mdash;&mdash; 🐬 MySQL   
-**┣**&mdash;&mdash; ⭐ [2024-ANN](https://github.com/kbs-kbs/2024-ANN)   
+**┠**&mdash;&mdash; ⭐ [2024-ANN](https://github.com/kbs-kbs/2024-ANN)   
 **│**&emsp;&emsp; **└**&mdash;&mdash; 🐍 Python        
-**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┣**&mdash;&mdash; 📦 NumPy     
-**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┣**&mdash;&mdash; 📦 TensorFlow     
-**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┣**&mdash;&mdash; 📦 Pandas   
+**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┠**&mdash;&mdash; 📦 NumPy     
+**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┠**&mdash;&mdash; 📦 TensorFlow     
+**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┠**&mdash;&mdash; 📦 Pandas   
 **│**&emsp;&emsp; &emsp;&emsp;&emsp; **└**&mdash;&mdash; 📦 matplotlib   
-**┣**&mdash;&mdash; ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
+**┠**&mdash;&mdash; ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
 **│**&emsp;&emsp; **└**&mdash;&mdash; 🐍 Python  
-**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┣**&mdash;&mdash; 📦 csv           
-**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┣**&mdash;&mdash; 📦 NumPy           
+**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┠**&mdash;&mdash; 📦 csv           
+**│**&emsp;&emsp; &emsp;&emsp;&emsp; **┠**&mdash;&mdash; 📦 NumPy           
 **│**&emsp;&emsp; &emsp;&emsp;&emsp; **└**&mdash;&mdash; 📦 matplotlib      
-**┣**&mdash;&mdash; ⭐ [2024-WS](https://github.com/kbs-kbs/2024-WS)   
-**│**&emsp;&emsp; **┣**&mdash;&mdash; 🐈 Apache Tomcat   
-**│**&emsp;&emsp; **┣**&mdash;&mdash; 🔄 JSP   
+**┠**&mdash;&mdash; ⭐ [2024-WS](https://github.com/kbs-kbs/2024-WS)   
+**│**&emsp;&emsp; **┠**&mdash;&mdash; 🐈 Apache Tomcat   
+**│**&emsp;&emsp; **┠**&mdash;&mdash; 🔄 JSP   
 **│**&emsp;&emsp; **└**&mdash;&mdash; ☕ Java    
 **│**&emsp;&emsp; &emsp;&emsp;&emsp; **└**&mdash;&mdash; 📦 JSTL   
-**┣**&mdash;&mdash; ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
+**┠**&mdash;&mdash; ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
 **│**&emsp;&emsp; **└**&mdash;&mdash; 🍔 English     
 
 ### 📚 Tech stack
