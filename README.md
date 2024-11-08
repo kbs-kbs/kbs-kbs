@@ -7,7 +7,7 @@ and enjoy exploring new open sources on GitHub.
 ### 🍱 My repositories and learning techs    
 
 😊 kbs-kbs      
-**├**&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
+**├&mdash;&mdash;** ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
 **│** &emsp;&emsp; **├**&mdash;&mdash; 🔱 git   
 **│** &emsp;&emsp; **└**&mdash;&mdash; 🐙 GitHub   
 **├**&mdash;&mdash; ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
@@ -34,7 +34,7 @@ and enjoy exploring new open sources on GitHub.
 **│** &emsp;&emsp; **└**&mdash;&mdash; 🍔 English     
 
 ### 📚 Tech stack
-⌨️ Languages
+⌨️ **Languages**
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -45,18 +45,18 @@ and enjoy exploring new open sources on GitHub.
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
 
-🗄️ Databases
+🗄️ **Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🖱️ IDEs/Editors
+🖱️ **IDEs/Editors**
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-🧰 Other tools
+🧰 **Other tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
 
