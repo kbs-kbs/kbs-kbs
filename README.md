@@ -20,6 +20,7 @@ and enjoy exploring new open sources on GitHub.
 **│** &emsp;&emsp; &emsp;&emsp;&emsp; **├&mdash;&mdash;** 📦 TensorFlow     
 **│** &emsp;&emsp; &emsp;&emsp;&emsp; **├&mdash;&mdash;** 📦 Pandas   
 **│** &emsp;&emsp; &emsp;&emsp;&emsp; **└&mdash;&mdash;** 📦 matplotlib   
+**│** &emsp;&emsp; &emsp;&emsp;&emsp; **└&mdash;&mdash;** 📦 seaborn   
 **├&mdash;&mdash;** ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
 **│** &emsp;&emsp; **└&mdash;&mdash;** 🐍 Python  
 **│** &emsp;&emsp; &emsp;&emsp;&emsp; **├&mdash;&mdash;** 📦 csv           
