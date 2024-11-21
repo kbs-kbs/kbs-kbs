@@ -48,7 +48,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
 
-📡 **Servers**
+🛰️ **Servers**
 
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
