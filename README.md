@@ -7,8 +7,8 @@
 
 😊 kbs-kbs      
 ┣&mdash;&mdash; ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
-┃ &emsp;&emsp; ┣&mdash;&mdash; 🔱 git   
-┃ &emsp;&emsp; ┗&mdash;&mdash; 🐙 GitHub   
+┃ &emsp;&emsp; ┣━━ 🔱 git   
+┃ &emsp;&emsp; ┗━━ 🐙 GitHub   
 ┣&mdash;&mdash; ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
 ┃ &emsp;&emsp; ┗&mdash;&mdash; ☕ Java    
 ┣&mdash;&mdash; ⭐ [2024-DB](https://github.com/kbs-kbs/2024-DB)   
@@ -34,33 +34,33 @@
 ┃ &emsp;&emsp; ┗&mdash;&mdash; 🍔 English     
 
 😊 kbs-kbs   
-├─── ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
-│ &emsp; &emsp; └─── 🐍 Python     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Scikit-learn    
-│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
-├─── ⭐ [2025-1-DLP](https://github.com/kbs-kbs/2025-1-DLP)      
-│ &emsp; &emsp; └─── 🐍 Python     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 NumPy     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 TensorFlow    
-│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
-├─── ⭐ [2025-1-AIL](https://github.com/kbs-kbs/2025-1-AIL)         
-│ &emsp; &emsp; └─── 🐍 Python     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 PyTorch     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
-├─── ⭐ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
-│ &emsp; &emsp; ├─── 🔑 Open API     
-│ &emsp; &emsp; └─── 🐍 Python     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Streamlit     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Plotly     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 NumPy     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Seaborn     
-│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Scikit-learn    
-│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib   
-├─── ⭐ [2025-1-AICD](https://github.com/kbs-kbs/2025-1-AICD)         
-└─── ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
-&emsp;&emsp; &emsp; └─── 🍤 Agile Software Development    
+&nbsp;├─── ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
+&nbsp;│ &emsp; &emsp; └─── 🐍 Python     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Scikit-learn    
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
+&nbsp;├─── ⭐ [2025-1-DLP](https://github.com/kbs-kbs/2025-1-DLP)      
+&nbsp;│ &emsp; &emsp; └─── 🐍 Python     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 NumPy     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 TensorFlow    
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
+&nbsp;├─── ⭐ [2025-1-AIL](https://github.com/kbs-kbs/2025-1-AIL)         
+&nbsp;│ &emsp; &emsp; └─── 🐍 Python     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 PyTorch     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
+&nbsp;├─── ⭐ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
+&nbsp;│ &emsp; &emsp; ├─── 🔑 Open API     
+&nbsp;│ &emsp; &emsp; └─── 🐍 Python     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Streamlit     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Plotly     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 NumPy     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Seaborn     
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Scikit-learn    
+&nbsp;│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib   
+&nbsp;├─── ⭐ [2025-1-AICD](https://github.com/kbs-kbs/2025-1-AICD)         
+&nbsp;└─── ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
+&nbsp;&emsp;&emsp; &emsp; └─── 🍤 Agile Software Development    
 
 ### 📚 Tech stack
 ⌨️ **Languages**
