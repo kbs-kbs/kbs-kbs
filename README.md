@@ -33,6 +33,35 @@
 ┣&mdash;&mdash; ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
 ┃ &emsp;&emsp; ┗&mdash;&mdash; 🍔 English     
 
+😊 kbs-kbs   
+├─── ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
+│ &emsp; &emsp; └─── 🍤 Agile Software Development    
+├─── ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
+│ &emsp; &emsp; └─── 🐍 Python     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Scikit-learn    
+│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
+├─── ⭐ [2025-1-DLP](https://github.com/kbs-kbs/2025-1-DLP)      
+│ &emsp; &emsp; └─── 🐍 Python     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 NumPy     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 TensorFlow    
+│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib    
+├─── ⭐ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
+│ &emsp; &emsp; ├─── 🔑 Open API     
+│ &emsp; &emsp; └─── 🐍 Python     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 Pandas     
+│ &emsp; &emsp;&emsp;&emsp; &emsp; ├─── 📦 TensorFlow    
+│ &emsp; &emsp;&emsp;&emsp; &emsp; └─── 📦 Matplotlib   
+│       │   └── app.py
+│       ├── ai_model/
+│       │   ├── model.py
+│       │   └── train.py
+│       ├── requirements.txt
+│       └── wsgi.py
+└── conf/
+    └── httpd.conf
+
+
 ### 📚 Tech stack
 ⌨️ **Languages**
 
