@@ -16,11 +16,11 @@
 ┃ &emsp;&emsp; ┗━━ 🐬 MySQL   
 ┣━━ ⭐ [2024-ANN](https://github.com/kbs-kbs/2024-ANN)   
 ┃ &emsp;&emsp; ┗━━ 🐍 Python        
-┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
-┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow     
-┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas   
-┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 matplotlib   
-┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 seaborn   
+┃ &emsp;&emsp; &emsp;&emsp; &emsp; ┣━━ 📦 NumPy     
+┃ &emsp;&emsp; &emsp;&emsp; &emsp; ┣━━ 📦 TensorFlow     
+┃ &emsp;&emsp; &emsp;&emsp; &emsp; ┣━━ 📦 Pandas   
+┃ &emsp;&emsp; &emsp;&emsp; &emsp; ┣━━ 📦 matplotlib   
+┃ &emsp;&emsp; &emsp;&emsp; &emsp; ┗━━ 📦 seaborn   
 ┣━━ ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
 ┃ &emsp;&emsp; ┗━━ 🐍 Python  
 ┃ &emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 csv           
