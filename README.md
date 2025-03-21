@@ -7,7 +7,7 @@
  
 😊 **kbs-kbs/2024-2**      
 ┃    
-┣━━ ⭐ [2024-OSS](https://github.com/kbs-kbs/2024-OSS)    
+┣━━ ⭐ [2024-2-OSS](https://github.com/kbs-kbs/2024-2-OSS)    
 ┃&emsp;&emsp; ┣━━ 🔱 git   
 ┃&emsp;&emsp; ┗━━ 🐙 GitHub   
 ┣━━ ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
