@@ -34,6 +34,11 @@
 ┣━━ ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
 ┃ &emsp;&emsp; ┗━━ 🍔 English     
 ┃    
+🥶 **kbs-kbs/2024-Winter-Semester**     
+┃    
+┣━━ ⭐ [2024-R](https://github.com/kbs-kbs/2024-R)    
+┃ &emsp;&emsp; ┗━━ ®️ R      
+┃   
 😆 **kbs-kbs/2025-1**     
 ┃    
 ┣━━ ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
