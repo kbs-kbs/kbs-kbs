@@ -63,7 +63,7 @@
 ┣━━ ⭐ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
 ┃&emsp;&emsp; ┣━━ 🔑 Open API     
 ┃&emsp;&emsp; ┗━━ 🐍 Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Streamlit     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 🚧 Streamlit     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Plotly     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas     
