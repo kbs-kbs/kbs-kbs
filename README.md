@@ -10,28 +10,28 @@
 ┣━━ ⭐ [2024-2-OSS](https://github.com/kbs-kbs/2024-2-OSS)    
 ┃&emsp;&emsp; ┣━━ 🔱 git   
 ┃&emsp;&emsp; ┗━━ 🐙 GitHub   
-┣━━ ⭐ [2024-JAVA](https://github.com/kbs-kbs/2024-JAVA)   
+┣━━ ⭐ [2024-2-JAVA](https://github.com/kbs-kbs/2024-2-JAVA)   
 ┃&emsp;&emsp; ┗━━ ☕ Java    
-┣━━ ⭐ [2024-DB](https://github.com/kbs-kbs/2024-DB)   
+┣━━ ⭐ [2024-2-DB](https://github.com/kbs-kbs/2024-2-DB)   
 ┃&emsp;&emsp; ┗━━ 🐬 MySQL   
-┣━━ ⭐ [2024-ANN](https://github.com/kbs-kbs/2024-ANN)   
+┣━━ ⭐ [2024-2-ANN](https://github.com/kbs-kbs/2024-2-ANN)   
 ┃&emsp;&emsp; ┗━━ 🐍 Python        
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas   
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 matplotlib   
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 seaborn   
-┣━━ ⭐ [2024-DA](https://github.com/kbs-kbs/2024-DA)   
+┣━━ ⭐ [2024-2-DA](https://github.com/kbs-kbs/2024-2-DA)   
 ┃&emsp;&emsp; ┗━━ 🐍 Python  
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 csv           
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy           
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 matplotlib      
-┣━━ ⭐ [2024-WS](https://github.com/kbs-kbs/2024-WS)   
+┣━━ ⭐ [2024-2-WS](https://github.com/kbs-kbs/2024-2-WS)   
 ┃&emsp;&emsp; ┣━━ 🐈 Apache Tomcat   
 ┃&emsp;&emsp; ┣━━ 🔄 JSP   
 ┃&emsp;&emsp; ┗━━ ☕ Java    
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 JSTL   
-┣━━ ⭐ [2024-RC](https://github.com/kbs-kbs/2024-RC)   
+┣━━ ⭐ [2024-2-RC](https://github.com/kbs-kbs/2024-2-RC)   
 ┃&emsp;&emsp; ┗━━ 🍔 English     
 ┃    
 🥶 **kbs-kbs/2024-Winter-Semester**     
