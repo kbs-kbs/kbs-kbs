@@ -46,7 +46,7 @@
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Scikit-learn    
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib    
-┣━━ ⭐ [2025-1-DLP](https://github.com/kbs-kbs/2025-1-DLP)      
+┣━━ ⭐ [2025-1-DL](https://github.com/kbs-kbs/2025-1-DL)      
 ┃&emsp;&emsp; ┗━━ 🐍 Python     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow    
