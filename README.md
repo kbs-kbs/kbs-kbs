@@ -3,7 +3,7 @@
 - I'm majoring in AI software at Dongyang Mirae University.
 - I'm interested in various programming languages and enjoy exploring new open sources on GitHub.      
 
-### 🍱 My repositories and learning techs    
+### 🍱 Coursework & Technologies    
  
 😊 **동양미래대학교/2024-2**      
 ┃    
