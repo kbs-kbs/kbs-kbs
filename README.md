@@ -5,7 +5,7 @@
 
 ### 🍱 My repositories and learning techs    
  
-😊 **kbs-kbs/2024-2**      
+😊 **동양미래대학교/2024-2**      
 ┃    
 ┣━━ ⭐ [2024-2-OSS](https://github.com/kbs-kbs/2024-2-OSS)    
 ┃&emsp;&emsp; ┣━━ 🔱 git   
@@ -34,12 +34,12 @@
 ┣━━ ⭐ [2024-2-RC](https://github.com/kbs-kbs/2024-2-RC)   
 ┃&emsp;&emsp; ┗━━ 🍔 English     
 ┃    
-🥶 **kbs-kbs/2024-Winter-Semester**     
+🥶 **동양미래대학교/2024-Winter-Semester**     
 ┃    
 ┣━━ ⭐ [2024-R](https://github.com/kbs-kbs/2024-R)    
 ┃&emsp;&emsp; ┗━━ ®️ R      
 ┃   
-😆 **kbs-kbs/2025-1**     
+😆 **동양미래대학교/2025-1**     
 ┃    
 ┣━━ ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
 ┃&emsp;&emsp; ┗━━ 🐍 Python     
@@ -74,7 +74,7 @@
 ┣━━ ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
 ┃&emsp;&emsp; ┗━━ 🍤 Agile Software Development    
 ┃    
-😊 **kbs-kbs/2026-2**     
+😊 **학점은행제/2026-2**     
 ┃    
 ┣━━ ⭐ [2026-2-AD](https://github.com/kbs-kbs/2026-2-AD)    
 ┣━━ ⭐ [2026-2-BD](https://github.com/kbs-kbs/2026-2-BD)    
