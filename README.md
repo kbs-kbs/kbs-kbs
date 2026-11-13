@@ -74,6 +74,15 @@
 ┗━━ ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
 &emsp;&emsp;&emsp; ┗━━ 🍤 Agile Software Development    
 
+😊 **kbs-kbs/2026-2**     
+┃    
+┣━━ ⭐ [2026-2-AD](https://github.com/kbs-kbs/2026-2-AD)    
+┣━━ ⭐ [2026-2-BD](https://github.com/kbs-kbs/2026-2-BD)    
+┣━━ ⭐ [2026-2-BIZ](https://github.com/kbs-kbs/2026-2-BIZ)    
+┣━━ ⭐ [2026-2-DS](https://github.com/kbs-kbs/2026-2-DS)    
+┣━━ ⭐ [2026-2-ECON](https://github.com/kbs-kbs/2026-2-ECON)    
+┗━━ ⭐ [2026-2-IP](https://github.com/kbs-kbs/2026-2-IP)    
+
 ### 📚 Tech stack
 ⌨️ **Languages**
 
