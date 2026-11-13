@@ -71,9 +71,9 @@
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Scikit-learn    
 ┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib   
 ┣━━ ⭐ [2025-1-AICD](https://github.com/kbs-kbs/2025-1-AICD)         
-┗━━ ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
-&emsp;&emsp;&emsp; ┗━━ 🍤 Agile Software Development    
-
+┣━━ ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
+┃&emsp;&emsp; ┗━━ 🍤 Agile Software Development    
+┃    
 😊 **kbs-kbs/2026-2**     
 ┃    
 ┣━━ ⭐ [2026-2-AD](https://github.com/kbs-kbs/2026-2-AD)    
