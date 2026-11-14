@@ -96,7 +96,7 @@
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-CC1100?style=for-the-badge&logo=yaml&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
 
 🛰️ **Servers**
 
