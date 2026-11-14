@@ -122,6 +122,12 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
+🤖 **Agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](.github/assets/codex-badge.svg)
+
+
 🧰 **Other tools**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
