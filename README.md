@@ -84,6 +84,8 @@
 ┗━━ ⭐ [2026-2-IP](https://github.com/kbs-kbs/2026-2-IP)    
 
 ### 📚 Tech stack
+<br>
+
 ⌨️ **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -98,6 +100,8 @@
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
 
+<br>
+
 🛰️ **Servers**
 
 - **Primary**
@@ -108,9 +112,13 @@
 
 ![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 
+<br>
+
 🗄️ **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
 
 🖱️ **IDEs/Editors**
 
@@ -128,11 +136,15 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 
+<br>
+
 🤖 **Agents**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](.github/assets/codex-badge.svg)
 
+
+<br>
 
 🧰 **Other tools**
 
