@@ -126,7 +126,7 @@
 
 🤖 **Agents**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 ![Codex](.github/assets/codex-badge.svg)
 
 🧰 **Other tools**
