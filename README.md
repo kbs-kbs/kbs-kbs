@@ -1,89 +1,89 @@
-### Hi there
+### 👋 Hi there
 
 - I'm majoring in AI software at Dongyang Mirae University.
 - I'm interested in various programming languages and enjoy exploring new open sources on GitHub.      
 
-### Coursework & Technologies    
+### 🍱 Coursework & Technologies    
  
-**동양미래대학교/2024-2**      
+😊 **동양미래대학교/2024-2**      
 ┃    
-┣━━ [2024-2-OSS](https://github.com/kbs-kbs/2024-2-OSS)    
-┃&emsp;&emsp; ┣━━ git   
-┃&emsp;&emsp; ┗━━ GitHub   
-┣━━ [2024-2-JAVA](https://github.com/kbs-kbs/2024-2-JAVA)   
-┃&emsp;&emsp; ┗━━ Java    
-┣━━ [2024-2-DB](https://github.com/kbs-kbs/2024-2-DB)   
-┃&emsp;&emsp; ┗━━ MySQL   
-┣━━ [2024-2-ANN](https://github.com/kbs-kbs/2024-2-ANN)   
-┃&emsp;&emsp; ┗━━ Python        
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ NumPy     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ TensorFlow     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Pandas   
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ matplotlib   
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ seaborn   
-┣━━ [2024-2-DA](https://github.com/kbs-kbs/2024-2-DA)   
-┃&emsp;&emsp; ┗━━ Python  
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ csv           
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ NumPy           
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ matplotlib      
-┣━━ [2024-2-WS](https://github.com/kbs-kbs/2024-2-WS)   
-┃&emsp;&emsp; ┣━━ Apache Tomcat   
-┃&emsp;&emsp; ┣━━ JSP   
-┃&emsp;&emsp; ┗━━ Java    
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ JSTL   
-┣━━ [2024-2-RC](https://github.com/kbs-kbs/2024-2-RC)   
-┃&emsp;&emsp; ┗━━ English     
+┣━━ ⭐ [2024-2-OSS](https://github.com/kbs-kbs/2024-2-OSS)    
+┃&emsp;&emsp; ┣━━ 🔱 git   
+┃&emsp;&emsp; ┗━━ 🐙 GitHub   
+┣━━ ⭐ [2024-2-JAVA](https://github.com/kbs-kbs/2024-2-JAVA)   
+┃&emsp;&emsp; ┗━━ ☕ Java    
+┣━━ ⭐ [2024-2-DB](https://github.com/kbs-kbs/2024-2-DB)   
+┃&emsp;&emsp; ┗━━ 🐬 MySQL   
+┣━━ ⭐ [2024-2-ANN](https://github.com/kbs-kbs/2024-2-ANN)   
+┃&emsp;&emsp; ┗━━ 🐍 Python        
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas   
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 matplotlib   
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 seaborn   
+┣━━ ⭐ [2024-2-DA](https://github.com/kbs-kbs/2024-2-DA)   
+┃&emsp;&emsp; ┗━━ 🐍 Python  
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 csv           
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy           
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 matplotlib      
+┣━━ ⭐ [2024-2-WS](https://github.com/kbs-kbs/2024-2-WS)   
+┃&emsp;&emsp; ┣━━ 🐈 Apache Tomcat   
+┃&emsp;&emsp; ┣━━ 🔄 JSP   
+┃&emsp;&emsp; ┗━━ ☕ Java    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 JSTL   
+┣━━ ⭐ [2024-2-RC](https://github.com/kbs-kbs/2024-2-RC)   
+┃&emsp;&emsp; ┗━━ 🍔 English     
 ┃    
-**동양미래대학교/2024-Winter-Semester**     
+🥶 **동양미래대학교/2024-Winter-Semester**     
 ┃    
-┣━━ [2024-R](https://github.com/kbs-kbs/2024-R)    
-┃&emsp;&emsp; ┗━━ R      
+┣━━ ⭐ [2024-R](https://github.com/kbs-kbs/2024-R)    
+┃&emsp;&emsp; ┗━━ ®️ R      
 ┃   
-**동양미래대학교/2025-1**     
+😆 **동양미래대학교/2025-1**     
 ┃    
-┣━━ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
-┃&emsp;&emsp; ┗━━ Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Pandas     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Scikit-learn    
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ Matplotlib    
-┣━━ [2025-1-DL](https://github.com/kbs-kbs/2025-1-DL)      
-┃&emsp;&emsp; ┗━━ Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ NumPy     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ TensorFlow    
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ Matplotlib    
-┣━━ [2025-1-NLP](https://github.com/kbs-kbs/2025-1-NLP)      
-┃&emsp;&emsp; ┗━━ Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ NumPy     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ TensorFlow    
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ Matplotlib    
-┣━━ [2025-1-AIL](https://github.com/kbs-kbs/2025-1-AIL)         
-┃&emsp;&emsp; ┗━━ Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ PyTorch     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ Matplotlib    
-┣━━ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
-┃&emsp;&emsp; ┣━━ Open API     
-┃&emsp;&emsp; ┗━━ Python     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Streamlit     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Plotly     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ NumPy     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Pandas     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Seaborn     
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ Scikit-learn    
-┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ Matplotlib   
-┣━━ [2025-1-AICD](https://github.com/kbs-kbs/2025-1-AICD)         
-┣━━ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
-┃&emsp;&emsp; ┗━━ Agile Software Development    
+┣━━ ⭐ [2025-1-ML](https://github.com/kbs-kbs/2025-1-ML)      
+┃&emsp;&emsp; ┗━━ 🐍 Python     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Scikit-learn    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib    
+┣━━ ⭐ [2025-1-DL](https://github.com/kbs-kbs/2025-1-DL)      
+┃&emsp;&emsp; ┗━━ 🐍 Python     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib    
+┣━━ ⭐ [2025-1-NLP](https://github.com/kbs-kbs/2025-1-NLP)      
+┃&emsp;&emsp; ┗━━ 🐍 Python     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 TensorFlow    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib    
+┣━━ ⭐ [2025-1-AIL](https://github.com/kbs-kbs/2025-1-AIL)         
+┃&emsp;&emsp; ┗━━ 🐍 Python     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 PyTorch     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib    
+┣━━ ⭐ [2025-1-BDAP](https://github.com/kbs-kbs/2025-1-BDAP)      
+┃&emsp;&emsp; ┣━━ 🔑 Open API     
+┃&emsp;&emsp; ┗━━ 🐍 Python     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 🚧 Streamlit     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Plotly     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 NumPy     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Pandas     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Seaborn     
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┣━━ 📦 Scikit-learn    
+┃&emsp;&emsp; &emsp;&emsp;&emsp; ┗━━ 📦 Matplotlib   
+┣━━ ⭐ [2025-1-AICD](https://github.com/kbs-kbs/2025-1-AICD)         
+┣━━ ⭐ [2025-1-AISP](https://github.com/kbs-kbs/2025-1-AISP)    
+┃&emsp;&emsp; ┗━━ 🍤 Agile Software Development    
 ┃    
-**학점은행제/2026-2**     
+😊 **학점은행제/2026-2**     
 ┃    
-┣━━ [2026-2-AD](https://github.com/kbs-kbs/2026-2-AD)    
-┣━━ [2026-2-BD](https://github.com/kbs-kbs/2026-2-BD)    
-┣━━ [2026-2-BIZ](https://github.com/kbs-kbs/2026-2-BIZ)    
-┣━━ [2026-2-DS](https://github.com/kbs-kbs/2026-2-DS)    
-┣━━ [2026-2-ECON](https://github.com/kbs-kbs/2026-2-ECON)    
-┗━━ [2026-2-IP](https://github.com/kbs-kbs/2026-2-IP)    
+┣━━ ⭐ [2026-2-AD](https://github.com/kbs-kbs/2026-2-AD)    
+┣━━ ⭐ [2026-2-BD](https://github.com/kbs-kbs/2026-2-BD)    
+┣━━ ⭐ [2026-2-BIZ](https://github.com/kbs-kbs/2026-2-BIZ)    
+┣━━ ⭐ [2026-2-DS](https://github.com/kbs-kbs/2026-2-DS)    
+┣━━ ⭐ [2026-2-ECON](https://github.com/kbs-kbs/2026-2-ECON)    
+┗━━ ⭐ [2026-2-IP](https://github.com/kbs-kbs/2026-2-IP)    
 
-### Tech stack
+### 📚 Tech stack
 
 **Agents**
 
