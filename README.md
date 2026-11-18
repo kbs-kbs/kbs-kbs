@@ -84,6 +84,12 @@
 ┗━━ ⭐ [2026-2-IP](https://github.com/kbs-kbs/2026-2-IP)    
 
 ### 📚 Tech stack
+
+🤖 **Agents**
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Codex](.github/assets/codex-badge.svg?v=02f9e00d)
+
 ⌨️ **Languages**
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -92,8 +98,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=kbs-kbs&layout=compact)
 
 🛰️ **Servers**
 
@@ -123,11 +127,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-🤖 **Agents**
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
-![Codex](.github/assets/codex-badge.svg?v=02f9e00d)
 
 🧰 **Other tools**
 
