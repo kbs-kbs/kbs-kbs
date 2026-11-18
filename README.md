@@ -129,8 +129,8 @@
 
 *Used:*
 
-![Visual Studio](.github/assets/visual-studio-badge.svg?v=4198e69e)
-![Visual Studio Code](.github/assets/visual-studio-code-badge.svg?v=0d8eb346)
+![Visual Studio](.github/assets/visual-studio-badge.svg?v=9657daeb)
+![Visual Studio Code](.github/assets/visual-studio-code-badge.svg?v=088b4c1f)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
