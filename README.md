@@ -129,7 +129,7 @@
 
 *Used:*
 
-![Visual Studio](.github/assets/visual-studio-badge.svg?v=9657daeb)
+![Visual Studio](.github/assets/visual-studio-badge.svg?v=dark1c1c1c)
 ![Visual Studio Code](.github/assets/visual-studio-code-badge.svg?v=088b4c1f)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
