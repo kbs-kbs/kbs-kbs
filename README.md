@@ -138,7 +138,7 @@
 
 **Other tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,docker)](https://skillicons.dev)
 
 
 
