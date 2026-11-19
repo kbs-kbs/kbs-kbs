@@ -130,7 +130,7 @@
 
 *Used:*
 
-![Visual Studio](.github/assets/visual-studio-badge.svg?v=dd0093c3)
+![Visual Studio](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kbs-kbs/kbs-kbs/main/.github/assets/visual-studio.json)
 ![Visual Studio Code](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kbs-kbs/kbs-kbs/main/.github/assets/visual-studio-code.json)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
