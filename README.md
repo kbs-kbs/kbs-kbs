@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
-- I'm majoring in AI software at Dongyang Mirae University.
-- I'm interested in various programming languages and enjoy exploring new open sources on GitHub.      
+- I'm a software developer currently studying artificial intelligence.
+- I enjoy exploring open-source projects and trying out new developer tools.
 
 ### 🍱 Coursework & Technologies    
  
