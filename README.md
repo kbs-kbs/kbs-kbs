@@ -152,7 +152,7 @@
 
 - Microsoft Certified: Azure AI Fundamentals
 - AICE Associate
-- Advanced Data Analytics Semi-Professional (ADsP, 데이터분석 준전문가)
+- ADsP (Advanced Data Analytics Semi-Professional)
 - Salesforce Certified Tableau Desktop Foundations
 - GTQ (Graphic Technology Qualification) 1급
 - 전자출판기능사
