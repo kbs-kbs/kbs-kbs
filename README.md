@@ -148,5 +148,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma)](https://skillicons.dev)
 
+### Certifications
 
-
+- Microsoft Certified: Azure AI Fundamentals
+- AICE Associate
+- ADsP (데이터분석 준전문가)
+- Salesforce Certified Tableau Desktop Foundations
+- GTQ 1급
+- 전자출판기능사
+- 컴퓨터그래픽기능사
