@@ -155,5 +155,5 @@
 - ADsP (Advanced Data Analytics Semi-Professional)
 - Salesforce Certified Tableau Desktop Foundations
 - GTQ (Graphic Technology Qualification) 1급
-- 전자출판기능사
-- 컴퓨터그래픽기능사
+- 전자출판기능사 (Craftsman Desktop Publishing)
+- 컴퓨터그래픽기능사 (Craftsman Computer Graphic)
