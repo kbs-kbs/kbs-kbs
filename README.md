@@ -146,7 +146,7 @@
 
 **Other tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,aws,azure)](https://skillicons.dev)
 
 ### Certifications
 
