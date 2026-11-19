@@ -105,6 +105,7 @@
 ![CSS3](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/kbs-kbs/kbs-kbs/main/.github/assets/css3.json)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 **Servers**
 
