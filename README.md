@@ -154,6 +154,6 @@
 - AICE Associate
 - Advanced Data Analytics Semi-Professional (ADsP, 데이터분석 준전문가)
 - Salesforce Certified Tableau Desktop Foundations
-- GTQ 1급
+- GTQ (Graphic Technology Qualification) 1급
 - 전자출판기능사
 - 컴퓨터그래픽기능사
