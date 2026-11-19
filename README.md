@@ -146,9 +146,9 @@
 
 **Other tools**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,figma,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,azure,figma)](https://skillicons.dev)
 
-### Certifications
+### 📜 Certifications
 
 - Microsoft Certified: Azure AI Fundamentals
 - AICE Associate
