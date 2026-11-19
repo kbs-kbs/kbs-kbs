@@ -152,9 +152,9 @@
 ### 📜 Certifications
 
 - Microsoft Certified: Azure AI Fundamentals
-- AICE Associate
-- ADsP (Advanced Data Analytics Semi-Professional)
 - Salesforce Certified Tableau Desktop Foundations
-- GTQ (Graphic Technology Qualification) 1급
-- 전자출판기능사 (Craftsman Desktop Publishing)
+- AICE Associate (AI Certificate for Everyone)
+- ADsP (Advanced Data Analytics Semi-Professional)
 - 컴퓨터그래픽기능사 (Craftsman Computer Graphic)
+- 전자출판기능사 (Craftsman Desktop Publishing)
+- GTQ (Graphic Technology Qualification) 1급
